@@ -8,6 +8,7 @@ This project is a Countdown Timer Challenge that presents a math problem to the 
 - Countdown timer that resets with each new problem.
 - Check if the user's answer is correct.
 - Particle animation background.
+- Dynamic background color changes.
 - Responsive design.
 
 ## Technologies Used
